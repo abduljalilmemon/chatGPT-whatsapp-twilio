@@ -1,0 +1,6 @@
+loguru==0.7.0
+environ==1.0
+requests==2.31.0
+environs==9.5.0
+pydantic==2.3.0
+flask==3.0.0
